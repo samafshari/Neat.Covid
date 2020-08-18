@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neat.Covid", "Neat.Covid\Neat.Covid.csproj", "{B68D7BCA-33B8-45CB-9735-731272F2475A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B68D7BCA-33B8-45CB-9735-731272F2475A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68D7BCA-33B8-45CB-9735-731272F2475A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68D7BCA-33B8-45CB-9735-731272F2475A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68D7BCA-33B8-45CB-9735-731272F2475A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD1BC93A-BD34-4171-97DF-47C472BC2EA5}
+	EndGlobalSection
+EndGlobal
